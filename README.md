@@ -1,10 +1,13 @@
-### Hi there 👋
+
+<p align="left"> 
+   <img title="overview" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryugel&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">   
+</p>
 
 <!--
 **ryugel/ryugel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<img title="overview" src="https://github-readme-streak-stats.herokuapp.com/?user=ryugel&theme=tokyonight&hide_border=false">
 Here are some ideas to get you started:
-
+![ryugel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryugel&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
