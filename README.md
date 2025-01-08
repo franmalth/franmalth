@@ -1,7 +1,10 @@
 
+
 <p align="left"> 
-   <img title="overview" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryugel&theme=tokyonight&show_icons=true&hide_border=false&layout=compact">   
+   <img title="overview" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryugel&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"> 
+   
 </p>
+
 
 <!--
 **ryugel/ryugel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +19,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![ryugel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryugel&show_icons=true&theme=radical)
 -->
