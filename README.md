@@ -1,25 +1,40 @@
+<h2 align="center">Hi there, I'm ryugel 👋</h2>
 
-
-<p align="left"> 
-   <img title="overview" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryugel&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"> 
-   
+<p align="center">
+   🎓 Master student in Information Systems at Université Paris Dauphine <br>
+   🛠️ iOS Developer  @ BNP Paribas <br>
+   📊 Interested in Data Analytics, Project Management & Digital Strategy <br>
+   🌍 I build useful tools, analyze complex data, and manage projects with purpose
 </p>
 
+---
 
-<!--
-**ryugel/ryugel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<img title="overview" src="https://github-readme-streak-stats.herokuapp.com/?user=ryugel&theme=tokyonight&hide_border=false">
-Here are some ideas to get you started:
-![ryugel's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ryugel&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🧰 Tech Stack & Tools
 
+<p align="left">
+   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+   <img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
+</p>
 
-![ryugel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryugel&show_icons=true&theme=radical)
--->
+---
+
+### 📈 GitHub Stats
+
+<p align="left"> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryugel&theme=tokyonight&layout=compact&hide_border=false" />
+</p>
+
+---
+
+### 💬 Let's Connect
+
+<p align="left">
+     <a href="https://stackoverflow.com/users/15105796/xiii" target="_blank">
+      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+   </a>
+</p>
