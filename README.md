@@ -2,7 +2,7 @@
 
 <p align="center">
    🎓 Master student in Information Systems at Université Paris Dauphine <br>
-   🛠️ iOS Developer  @ BNP Paribas <br>
+   🛠️ Software Engineer  @ BNP Paribas <br>
    📊 Interested in Data Analytics, Project Management & Digital Strategy <br>
    🌍 I build useful tools, analyze complex data, and manage projects with purpose
 </p>
