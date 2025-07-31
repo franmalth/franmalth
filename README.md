@@ -47,12 +47,6 @@
   <a href="https://stackoverflow.com/users/15105796/xiii" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/votre-profil" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:votre@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </div>
 
 ---
