@@ -1,40 +1,62 @@
-<h2 align="center">Hi there, I'm ryugel 👋</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+ryugel" alt="Typing SVG" />
+</h2>
 
 <p align="center">
-   🎓 Master student in Information Systems at Université Paris Dauphine <br>
-   🛠️ Software Engineer  @ BNP Paribas <br>
-   🌍 I build useful tools, analyze complex data, and manage projects with purpose
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1a1b26,100:7aa2f7&height=140&section=header&text=Welcome%20to%20my%20space&fontSize=28&fontColor=ffffff" />
+</p>
+
+<p align="center">
+  Master student in Information Systems at Université Paris Dauphine<br>
+  Software Engineer @ BNP Paribas<br>
+  I build useful tools, analyze complex data, and manage projects with purpose.
 </p>
 
 ---
 
-### 🧰 Tech Stack & Tools
+### Tech Stack
 
-<p align="left">
-   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-   <img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white"/>
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Analytics
 
-<p align="left"> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryugel&theme=tokyonight&layout=compact&hide_border=false" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryugel&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryugel&theme=tokyonight&layout=compact&hide_border=false" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=ryugel&theme=tokyonight&hide_border=false" />
+</div>
 
 ---
 
-### 💬 Let's Connect
+### Reach Me
 
-<p align="left">
-     <a href="https://stackoverflow.com/users/15105796/xiii" target="_blank">
-      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
-   </a>
+<div align="center">
+  <a href="https://stackoverflow.com/users/15105796/xiii" target="_blank">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/votre-profil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:votre@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-7aa2f7?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=7aa2f7&height=100&section=footer"/>
 </p>
