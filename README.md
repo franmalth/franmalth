@@ -8,7 +8,7 @@
 
 <p align="center">
   Master student in Information Systems at Université Paris Dauphine<br>
-  Software Engineer @ BNP Paribas<br>
+  Software Engineer <br>
   I build useful tools, analyze complex data, and manage projects with purpose.
 </p>
 
