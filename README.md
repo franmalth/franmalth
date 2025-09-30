@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+ryugel" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+franmalth" alt="Typing SVG" />
 </h2>
 
 <p align="center">
@@ -32,11 +32,11 @@
 ### GitHub Analytics
 
 <div align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ryugel&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=franmalth&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" /> -->
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryugel&theme=tokyonight&layout=compact&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=franmalth&theme=tokyonight&layout=compact&hide_border=false" />
   <br><br>
-  <!-- <img src="https://streak-stats.demolab.com?user=ryugel&theme=tokyonight&hide_border=false" /> -->
+  <!-- <img src="https://streak-stats.demolab.com?user=franmalth&theme=tokyonight&hide_border=false" /> -->
 </div>
 
 ---
